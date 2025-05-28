@@ -65,7 +65,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ```python
 # Clone the repository
 git clone https://github.com/beater35/ml-classification-wine-quality.git
-cd wine-quality-classification
+cd ml-classification-wine-quality
 
 # Load and run the Jupyter notebook
 jupyter notebook classification_model_comparison_wine_quality.ipynb
